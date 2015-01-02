@@ -29,3 +29,7 @@ Pen starts at the top-right of the drawing area.
 - Maximum disc radius looks about 38mm (top-most disc)
 - Minimum disc radius looks about 12mm (bottom-most disc)
 - Disc thickness is 2mm
+
+## Random thoughts
+
+- You can move rapidly from left to right or bottom to top by introducing a sheer cliff and letting the spring snap back. This might be handy for kind of compressing a rapid movement.
