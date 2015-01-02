@@ -28,3 +28,4 @@ Pen starts at the top-right of the drawing area.
 - Writing area is about 38mm x 28mm (remeasure)
 - Maximum disc radius looks about 38mm (top-most disc)
 - Minimum disc radius looks about 12mm (bottom-most disc)
+- Disc thickness is 2mm
