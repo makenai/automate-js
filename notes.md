@@ -1,6 +1,6 @@
 #Automa-te Notes
 
-Pen starts at the top-right of the drawing area
+Pen starts at the top-right of the drawing area.
 
 ##Three disc layers from top to bottom are for:
 
@@ -23,6 +23,7 @@ Pen starts at the top-right of the drawing area
 
 ##Other measurements:
 
+- One full disc rotation is about 35.7 seconds (kinda close to 10 degrees per second)
 - Inner disc square: 12.75mm
 - Writing area is about 38mm x 28mm (remeasure)
 - Maximum disc radius looks about 38mm (top-most disc)
