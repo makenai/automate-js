@@ -1,4 +1,4 @@
-= Automate.js
+#Automate.js
 
 Project to create a JS canvas app to create 3D printable discs for the [automa-te writing automaton kit](http://www.japantrendshop.com/otona-no-kagaku-maywa-denki-automate-auto-writer-hand-p-2488.html) from Gakken.
 
